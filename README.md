@@ -1,4 +1,4 @@
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Chandi Charan Mahato !
+# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Sanskar Varshney !
 ## Welcome to my Github Profile 
 
 ### About me 
@@ -31,7 +31,7 @@ if(succeed == false){
 ---
 ___
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sanskarv003&label=Profile%20views&color=0e75b6&style=flat" alt="Sanskarv003" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chandi977&label=Profile%20views&color=0e75b6&style=flat" alt="Sanskarv003" /> </p>
 
 
 <p align="center">
