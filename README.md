@@ -7,7 +7,7 @@
 ```js
 document.write("Namaste _/\_");
 Developer dev = new Developer(Sanskar);
-const Charan = {
+const Sanskar = {
     pronouns: "he" | "his",
     status: Student,
     technologies: {
