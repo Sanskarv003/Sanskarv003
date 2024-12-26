@@ -31,7 +31,7 @@ if(succeed == false){
 ---
 ___
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chandi977&label=Profile%20views&color=0e75b6&style=flat" alt="Sanskarv003" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sanskarv003&label=Profile%20views&color=0e75b6&style=flat" alt="Sanskarv003" /> </p>
 
 
 <p align="center">
