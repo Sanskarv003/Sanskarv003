@@ -2,7 +2,7 @@
 ## Welcome to my Github Profile 
 
 ### About me 
-<img align='right' src="https://github.com/Sanskarv003/Sanskarv003/assets/55855799/66bf7e51-ea3f-4522-b23d-f461c3ab0a4c" width="400"> 
+<img align='right' src="[https://github.com/Sanskarv003/Sanskarv003/assets/55855799/66bf7e51-ea3f-4522-b23d-f461c3ab0a4c](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)" width="400"> 
 
 ```js
 document.write("Namaste _/\_");
