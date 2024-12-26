@@ -2,7 +2,7 @@
 ## Welcome to my Github Profile 
 
 ### About me 
-<img align='right' src="https://github.com/user-attachments/assets/e32a49f0-32bf-4ea7-a3b0-90840371ec42" width="400"> 
+<img align='right' src="https://github.com/user-attachments/assets/e32a49f0-32bf-4ea7-a3b0-90840371ec42" width="400" height="600"> 
 
 ```js
 document.write("Namaste _/\_");
